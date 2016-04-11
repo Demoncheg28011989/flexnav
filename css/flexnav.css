@@ -35,7 +35,9 @@
     overflow: hidden;
     color: #222222;
     background: #a6a6a2;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15); 
+    display:inline;
+  }
   .flexnav li ul {
     width: 100%; }
     .flexnav li ul li {
